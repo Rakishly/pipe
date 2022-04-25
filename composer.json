@@ -1,0 +1,16 @@
+{
+    "name": "wuyue/pipe",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Wuyue\\Pipe\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wuyue",
+            "email": "wuyue@singbada.cn"
+        }
+    ],
+    "require": {}
+}
