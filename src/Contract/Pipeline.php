@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Wuyue\Pipe\contract;
+namespace Wuyue\Pipe\Contract;
 
 
 use Closure;

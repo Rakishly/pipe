@@ -8,7 +8,7 @@ use Closure;
 use Exception;
 use RuntimeException;
 use Throwable;
-use Wuyue\Pipe\contract\Pipeline as PipelineContract;
+use Wuyue\Pipe\Contract\Pipeline as PipelineContract;
 
 class Pipeline implements PipelineContract
 {
